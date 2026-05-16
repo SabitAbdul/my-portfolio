@@ -46,6 +46,11 @@ function App() {
           I am learning web development and building real projects to improve my
           skills. My goal is to become confident in building professional
           websites and applications with clean code and responsive design.
+          I am an aspiring frontend developer who is passionate about building clean, responsive, and user-friendly websites. 
+          I enjoy learning how websites are created from the ground up using HTML, CSS, JavaScript, and React.
+
+          My goal is to continue improving my skills by building real projects, practicing problem-solving, and learning modern web development tools. 
+          This portfolio represents my learning journey and the projects I am creating as I grow as a developer.
         </p>
       </section>
 
@@ -77,7 +82,7 @@ function App() {
         <h2>Experience</h2>
 
         <div className="card">
-          <h3>Frontend Developer / Student Developer</h3>
+          <h3>Frontend Developer / Junior Developer</h3>
           <p>
             Built practice projects using HTML, CSS, JavaScript, React, Git, and
             GitHub.
