@@ -60,6 +60,31 @@ The education section highlights my academic background, degree program, school,
 
 The experience section describes my hands-on practice with frontend development. It includes my work with projects, coding practice, GitHub, and building responsive websites.
 
+## What I Learned
+
+## While building this project, I practiced:
+
+Creating a React project with Vite
+Writing reusable React components
+Styling a website with CSS
+Building responsive layouts
+Using Git for version control
+Pushing code to GitHub
+Deploying a website with GitHub Pages
+Organizing a professional portfolio project
+
+
+## Future Improvements
+Add more real projects
+Add project images or screenshots
+Add a downloadable resume
+Improve animations and transitions
+Add a dark/light mode toggle
+Add a contact form
+Improve accessibility
+
+
+
 ### Projects
 
 The projects section showcases the web development projects I have created. Each project includes a short description and can include links to the live website or GitHub repository.
