@@ -43,18 +43,17 @@ function App() {
       <section id="about" className="section lightSection">
         <h2>About Me</h2>
         <p>
-          I am a passionate, committed, dedicated, and hardworking technology professional with a strong background in software engineering, computer science, networking, data science, artificial intelligence, machine learning, and full stack development.
+          I am a passionate and hardworking Software Engineer with a strong background in software engineering, computer science, network engineering, data science, 
+          artificial intelligence, machine learning, and full stack development.
 
-I hold a BSc in Information Science, a BSc in Software Engineering, and an MSc in Computer Science. I am currently pursuing MSc in Software Engineering with a focus on Artificial Intelligence at the University of St. Thomas.
+          I hold a BSc in Information Science, a BSc in Software Engineering, and an MSc in Computer Science. 
+          I am currently pursuing an MSc in Software Engineering with a focus on Artificial Intelligence at the University of St. Thomas.
 
-My professional experience includes over six years as a Network Engineer at Haramaya University in Ethiopia and over two years as a Medical Device Specialist at Boston Scientific in Maple Grove, Minnesota. Alongside my academic and professional experience, I continuously improve my technical skills through online learning platforms such as Coursera, Codecademy, freeCodeCamp, Udemy, and other professional development resources.
-
-I enjoy designing and developing practical software systems, data-driven applications, AI and machine learning solutions, network-based projects, and full stack web applications. My objective is to continue growing as a well-rounded engineer who can solve real-world problems using modern technologies.
-          </p>
-
-          <p>My goal is to continue improving my skills by building real projects, practicing problem-solving, and learning modern web development tools. 
-          This portfolio represents my learning journey and the projects I am creating as I grow as a developer.
+          My experience includes over six years as a Network Engineer at Haramaya University and over two years as a Medical Device Specialist at Boston Scientific. 
+          I enjoy building practical software systems, data-driven applications, 
+          AI solutions, and responsive web applications that solve real-world problems.
         </p>
+          
       </section>
 
       <section id="skills" className="section">
@@ -102,7 +101,7 @@ Git, GitHub, GitHub Pages, VS Code, Coursera, Codecademy, freeCodeCamp, Udemy.</
           <div>Git</div>
           <div>GitHub</div>
           <div>VS Code</div>
-          <div>Responsive Design</div>
+          <div>Responsive WebDesign</div>
         </div>
       </section>
 
