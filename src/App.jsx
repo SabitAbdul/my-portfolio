@@ -101,7 +101,7 @@ Git, GitHub, GitHub Pages, VS Code, Coursera, Codecademy, freeCodeCamp, Udemy.</
           <div>Git</div>
           <div>GitHub</div>
           <div>VS Code</div>
-          <div>Responsive WebDesign</div>
+          <div>Responsive Web Design</div>
         </div>
       </section>
 
@@ -109,7 +109,7 @@ Git, GitHub, GitHub Pages, VS Code, Coursera, Codecademy, freeCodeCamp, Udemy.</
         <h2>Education</h2>
 
         <div className="card">
-          <h3>MSc in Software Engineering, Artificial Intelligence Focus
+          <h5>MSc in Software Engineering, Artificial Intelligence Focus
 University of St. Thomas
 September 2025 – September 2027
 Currently pursuing advanced studies in software engineering with a focus on artificial intelligence, machine learning, and modern software development.
@@ -124,7 +124,7 @@ Completed software engineering studies with hands-on projects in system design, 
 
 BSc in Information Science
 Graduated: July 2010
-Built a strong foundation in information systems, technology, data organization, and computing principles.</h3>
+Built a strong foundation in information systems, technology, data organization, and computing principles.</h5>
           <p>University of St. Thomas, St. Paul, MN</p>
           <p>September 2025 - September 2027</p>
         </div>
